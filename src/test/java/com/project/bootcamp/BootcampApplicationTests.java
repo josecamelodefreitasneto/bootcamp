@@ -1,10 +1,10 @@
-package com.project.boodcamp;
+package com.project.bootcamp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BoodcampApplicationTests {
+class BootcampApplicationTests {
 
 	@Test
 	void contextLoads() {

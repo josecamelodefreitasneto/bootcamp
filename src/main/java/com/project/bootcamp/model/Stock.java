@@ -1,4 +1,5 @@
-package com.project.boodcamp.model;
+package com.project.bootcamp.model;
+
 import javax.persistence.*;
 import java.time.LocalDate;
 
